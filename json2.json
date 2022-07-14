@@ -1,6 +1,6 @@
 {
-  "apartment":{
+  "apartment":[{
      "id":2,
      "available":false 
-  }
+  }]
 }
