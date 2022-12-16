@@ -1,6 +1,6 @@
 {
   "apartment":[{
      "id":5,
-     "available":false 
+     "available":"sold"
   }]
 }
